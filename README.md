@@ -9,8 +9,7 @@ You need to download the necessary resource files from the provided link.
 Once downloaded, extract the contents of the zip file.
 Replace the existing JBlackJackRes folder in your project directory with the newly downloaded one. Make sure the extracted folder is named exactly as JBlackJackRes to ensure the project can properly locate the resources.
 
-
-<u>Why the Git LFS Files Are Corrupted if you download the zip from GitHub<u>:
+2)<u>Why the Git LFS Files Are Corrupted if you download the zip from GitHub<u>:
 
 The files that were stored using Git LFS (Large File Storage) have become corrupted due to some issues with how the LFS system handles large binary files.
 In some cases, when files are not properly pushed or retrieved using Git LFS, they can become broken or corrupted. This often happens if the LFS tracking was not properly set up or if the LFS files were not correctly synchronized between the local and remote repositories.
