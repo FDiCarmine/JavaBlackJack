@@ -14,6 +14,8 @@ it may depend from the IDE are you using but you have to select this folder as s
 
 once you have this done,run the Launcher.java class
 
+![Screenshot 2025-04-20 142040](https://github.com/user-attachments/assets/28f1c7fc-0482-45cc-9db5-02c5f3ffaaa4)
+
 *Why the Git LFS Files Are Corrupted if you download the zip from GitHub<*:
 
 *The files that were stored using Git LFS (Large File Storage) have become corrupted due to some issues with how the LFS system handles large binary files.
