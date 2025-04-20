@@ -9,6 +9,7 @@ How to Set Up the Resources for the Project
 Once downloaded, extract the contents of the zip file.
 Replace the existing JBlackJackRes folder in your project directory with the newly downloaded one. Make sure the extracted folder is named exactly as JBlackJackRes to ensure the project can properly locate the resources.
 it may depend from the IDE are you using but you have to select this folder as source folder, In Eclipse IDE : - ( Build Path -> Use as a source folder) 
+![Screenshot 2025-04-20 141041](https://github.com/user-attachments/assets/71e36b51-040b-4eb9-bb9a-1afb7bd70387)
 
 *Why the Git LFS Files Are Corrupted if you download the zip from GitHub<*:
 
